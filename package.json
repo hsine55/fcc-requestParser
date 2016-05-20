@@ -1,0 +1,11 @@
+{
+  "name": "chat-example",
+  "version": "0.0.0",
+  "description": "fcc, request parser",
+  "main": "server.js",
+  "repository": "",
+  "author": "hsine.benmessqoud <hsine.benmessaoud@gmail.com>",
+  "dependencies": {
+    "express": "~3.2.4"
+  }
+}
